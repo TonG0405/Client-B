@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPForward", "UDPForward.csproj", "{058EBE9C-1684-422C-8C7D-304A13E95100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058EBE9C-1684-422C-8C7D-304A13E95100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058EBE9C-1684-422C-8C7D-304A13E95100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058EBE9C-1684-422C-8C7D-304A13E95100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058EBE9C-1684-422C-8C7D-304A13E95100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53880364-D898-43C2-9E4E-9BF532B54B7B}
+	EndGlobalSection
+EndGlobal
